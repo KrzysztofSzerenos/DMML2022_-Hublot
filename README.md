@@ -29,6 +29,6 @@ The project proceeds in the form of a competition. Each team has to create a Mac
  <img width="206" alt="image" src="https://user-images.githubusercontent.com/114418720/208765541-c97a6c22-dc7c-4317-8216-733c08e2e209.png">
 
 <p style="font-weight: 400;">
-My name is Krzysztof. I am 23 years old. I am from Poland. I am a student in the first semester of Master's degree in Information Systems and Digital Innovation. In my free time, I am interested in geopolitics and classical music, especially the compositions of Frederic Chopin. Additionally, I am passionate about sports, especially Crossfit.
+My name is Christopher. I am 23 years old. I am from Poland. I am a first semester student of Master's degree in Information Systems and Digital Innovation. In my free time, I am interested in geopolitics and classical music, in particular the compositions of Frederic Chopin. Moreover, I am passionate about sports, especially Crossfit.
 
 **Email address: krzysztof.szerenos@unil.ch**
