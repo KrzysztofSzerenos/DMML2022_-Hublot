@@ -2,7 +2,7 @@
 ## PROJECT GOAL 
 Create a Machine Learning model that predicts the level of French
 ## PROJECT DESCRIPTION
-The project proceeds in the form of a competition. Each team has to create a Machine Learning model that predicts the level of the french language on a scale from A1 to C2 as accurate as possible. The trained model has to be submitted to Kaggle competition. Published under this link: https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2022/overview. In addition, at the very beginning we were asked to examine the **Accuracy**, **Precision**, **Recall**, **F1-score** of the following models below:
+The project proceeds in the form of a competition. Each team has to create a Machine Learning model that predicts the level of the french language on a scale from A1 to C2 as accurate as possible. The trained model has to be submitted to Kaggle competition. Published under this link: shorturl.at/fhMQS. In addition, at the very beginning we were asked to examine the **Accuracy**, **Precision**, **Recall**, **F1-score** of the following models below:
 - **Logistic Regression**
 - **kNN**
 - **Decision Tree**
