@@ -2,7 +2,66 @@
 ## PROJECT GOAL 
 Create a Machine Learning model that predicts the level of French
 ## PROJECT DESCRIPTION
-The project proceeds in the form of a competition. Each team has to create a Machine Learning model that predicts the level of the french language on a scale from A1 to C2 as accurate as possible. The trained model has to be submitted to Kaggle competition. Published under this link: https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2022/overview
+The project proceeds in the form of a competition. Each team has to create a Machine Learning model that predicts the level of the french language on a scale from A1 to C2 as accurate as possible. The trained model has to be submitted to Kaggle competition. Published under this link: https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2022/overview. In addition, at the very beginning we were asked to examine the **Accuracy**, **Precision**, **Recall**, **F1-score** of the following models below:
+- **Logistic Regression**
+- **kNN**
+- **Decision Tree**
+- **Random Forests**
+- **Any other technique (of our choice)**
+
+<table>
+  <tr>
+    <th>  </th>
+    <th> Logistic regression </th>
+    <th> kNN </th>
+    <th> Decision Tree </th>
+    <th> Random Forests </th>
+    <th> Any other technique </th>
+  </tr>
+  <tr>
+    <td> Baseline </td>
+    <td> 0.1694 </td>
+    <td> 0.1694 </td>
+    <td> 0.1694 </td>
+    <td> 0.1694 </td>
+    <td> 0 </td>
+  </tr>
+  <tr>
+    <td> Precision </td>
+    <td> 0.4664 </td>
+    <td> 0.2972 </td>
+    <td> 0.3226 </td>
+    <td> 0.4149 </td>
+    <td> 0 </td>
+  </tr>
+  <tr>
+    <td> Recall </td>
+    <td> 0.4594 </td>
+    <td> 0.2031 </td>
+    <td> 0.3240 </td>
+    <td> 0.3906 </td>
+    <td> 0 </td>
+  </tr>
+  <tr>
+    <td> F1-score </td>
+    <td> 0.4557 </td>
+    <td> 0.1183 </td>
+    <td> 0.3135 </td>
+    <td> 0.3735 </td>
+    <td> 0 </td>
+  </tr>
+  <tr>
+    <td> Accuracy </td>
+    <td> 0.4594 </td>
+    <td> 0.2031 </td>
+    <td> 0.3240 </td>
+    <td> 0.3906 </td>
+    <td> 0 </td>
+  </tr>
+</table>
+
+**All the results received are based on the TRAIN (80%) TEST (20%) split.**
+
 ## DATA DESCRIPTION
 ### Files:
 - **training_data.csv** : training set 
@@ -14,9 +73,9 @@ The project proceeds in the form of a competition. Each team has to create a Mac
 - **sentence:** the test set
 - **difficulty:** a sample submission file in the correct format
 ## PROJECT SUPERVISOR
-**Prof. Michalis Vlachos**
+[**Prof. Michalis Vlachos**](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1214508&LanCode=8)
 ## PROJECT ASSISTANTS
- **Roberto Ceraolo**
+ [**Roberto Ceraolo**](https://github.com/roberto-ceraolo)
  
  **Elodie Kwan**
  ## TEAM DESCRIPTION
