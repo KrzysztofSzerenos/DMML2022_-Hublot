@@ -30,7 +30,7 @@ The project proceeds in the form of a competition. Each team has to create a Mac
     <td> Precision </td>
     <td> 0.4664 </td>
     <td> 0.2972 </td>
-    <td> 0.3226 </td>
+    <td> 0.3241 </td>
     <td> 0.4149 </td>
     <td> 0.4325 </td>
   </tr>
@@ -38,7 +38,7 @@ The project proceeds in the form of a competition. Each team has to create a Mac
     <td> Recall </td>
     <td> 0.4594 </td>
     <td> 0.2031 </td>
-    <td> 0.3240 </td>
+    <td> 0.3260 </td>
     <td> 0.3906 </td>
     <td> 0.4292 </td>
   </tr>
@@ -46,7 +46,7 @@ The project proceeds in the form of a competition. Each team has to create a Mac
     <td> F1-score </td>
     <td> 0.4557 </td>
     <td> 0.1183 </td>
-    <td> 0.3135 </td>
+    <td> 0.3113 </td>
     <td> 0.3735 </td>
     <td> 0.4292 </td>
   </tr>
@@ -54,7 +54,7 @@ The project proceeds in the form of a competition. Each team has to create a Mac
     <td> Accuracy </td>
     <td> 0.4594 </td>
     <td> 0.2031 </td>
-    <td> 0.3240 </td>
+    <td> 0.3260 </td>
     <td> 0.3906 </td>
     <td> 0.4292 </td>
   </tr>
@@ -72,7 +72,7 @@ The project proceeds in the form of a competition. Each team has to create a Mac
 - **sentence:** the test set
 - **difficulty:** a sample submission file in the correct format
 ## PROJECT WORK STAGES
-**After checking all the moodels without any improvements, we decided that we would like to focus on the Naive Bayes model because it gaves us the second highest accuracy and we found a lot of information that this model is often use for Natural Language Processing (NLP)**
+**After checking accuracy of all the models without any changements/cleaning in dataset, we decided that we would like to focus on the Naive Bayes model because it gaves us the second highest accuracy and we found a lot of information that this model is often use for Natural Language Processing (NLP)**
 ## PROJECT SUPERVISOR
 [**Prof. Michalis Vlachos**](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1214508&LanCode=8)
 ## PROJECT ASSISTANTS
