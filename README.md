@@ -61,7 +61,6 @@ The project proceeds in the form of a competition. Each team has to create a Mac
 </table>
 
 **All the results received are based on the TRAIN (80%) TEST (20%) split.**
-
 ## DATA DESCRIPTION
 ### Files:
 - **training_data.csv** : training set 
@@ -72,6 +71,8 @@ The project proceeds in the form of a competition. Each team has to create a Mac
 - **id:** training set 
 - **sentence:** the test set
 - **difficulty:** a sample submission file in the correct format
+## PROJECT WORK STAGES
+**After checking all the moodels without any improvements, we decided that we would like to focus on the Naive Bayes model because it gaves us the second highest accuracy and we found a lot of information that this model is often use for Natural Language Processing (NLP)**
 ## PROJECT SUPERVISOR
 [**Prof. Michalis Vlachos**](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1214508&LanCode=8)
 ## PROJECT ASSISTANTS
