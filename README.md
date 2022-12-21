@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/114418720/208975175-198c1a51-7910-41b0-9c84-7dd914eb2bb6.png)
 # DATA MINING AND MACHINE LEARNING - PROJECT 2022 GROUP : HUBLOT
 ## PROJECT GOAL 
 Create a Machine Learning model that predicts the level of French
