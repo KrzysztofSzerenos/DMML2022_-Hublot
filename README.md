@@ -16,7 +16,7 @@ The project proceeds in the form of a competition. Each team has to create a Mac
     <th> kNN </th>
     <th> Decision Tree </th>
     <th> Random Forests </th>
-    <th> Any other technique </th>
+    <th> Naive Bayes </th>
   </tr>
   <tr>
     <td> Baseline </td>
@@ -24,7 +24,7 @@ The project proceeds in the form of a competition. Each team has to create a Mac
     <td> 0.1694 </td>
     <td> 0.1694 </td>
     <td> 0.1694 </td>
-    <td> 0 </td>
+    <td> 0.1694 </td>
   </tr>
   <tr>
     <td> Precision </td>
@@ -32,7 +32,7 @@ The project proceeds in the form of a competition. Each team has to create a Mac
     <td> 0.2972 </td>
     <td> 0.3226 </td>
     <td> 0.4149 </td>
-    <td> 0 </td>
+    <td> 0.4325 </td>
   </tr>
   <tr>
     <td> Recall </td>
@@ -40,7 +40,7 @@ The project proceeds in the form of a competition. Each team has to create a Mac
     <td> 0.2031 </td>
     <td> 0.3240 </td>
     <td> 0.3906 </td>
-    <td> 0 </td>
+    <td> 0.4292 </td>
   </tr>
   <tr>
     <td> F1-score </td>
@@ -48,7 +48,7 @@ The project proceeds in the form of a competition. Each team has to create a Mac
     <td> 0.1183 </td>
     <td> 0.3135 </td>
     <td> 0.3735 </td>
-    <td> 0 </td>
+    <td> 0.4292 </td>
   </tr>
   <tr>
     <td> Accuracy </td>
@@ -56,7 +56,7 @@ The project proceeds in the form of a competition. Each team has to create a Mac
     <td> 0.2031 </td>
     <td> 0.3240 </td>
     <td> 0.3906 </td>
-    <td> 0 </td>
+    <td> 0.4292 </td>
   </tr>
 </table>
 
