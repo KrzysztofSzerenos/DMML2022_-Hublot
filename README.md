@@ -72,8 +72,8 @@ The project proceeds in the form of a competition. Each team has to create a Mac
 - **id:** training set 
 - **sentence:** the test set
 - **difficulty:** a sample submission file in the correct format
-## PROJECT WORK STAGES
-**After checking accuracy of all the models without any changements/cleaning in dataset, we decided that we would like to focus on the Naive Bayes model because it gaves us the second highest accuracy and we found a lot of information that this model is often use for Natural Language Processing (NLP)**
+## YOUTUBE PRESENTATION
+https://www.youtube.com/watch?app=desktop&v=xCf65UCI9VM&feature=youtu.be
 ## PROJECT SUPERVISOR
 [**Prof. Michalis Vlachos**](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1214508&LanCode=8)
 ## PROJECT ASSISTANTS
