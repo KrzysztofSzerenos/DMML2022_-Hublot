@@ -83,8 +83,10 @@ https://www.youtube.com/watch?app=desktop&v=xCf65UCI9VM&feature=youtu.be
  ## TEAM DESCRIPTION
  **1. Daniel Poças**
  
- photo and description
- 
+  <img width="206" alt="image" src="https://user-images.githubusercontent.com/114418975/209124693-3ae361bb-d053-4eeb-a486-b4dd9962931b.jpeg">
+
+<p style="font-weight: 400;">
+I'm Daniel, a tech enthusiast student in Information Systems Master at HEC Lausanne. When I'm not trying to improve the accuracy of my models, I love to go on motorbike trips in the Swiss Alps. Also, I love spending my Sunday mornings making meat pastries.
  **2. Krzysztof Szerenos**
  
  <img width="206" alt="image" src="https://user-images.githubusercontent.com/114418720/208765541-c97a6c22-dc7c-4317-8216-733c08e2e209.png">
